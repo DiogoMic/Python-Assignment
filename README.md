@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @McTello
-- 👀 I’m interested in Python , Cloud Development and Ubuntu. 
+- 👀 I’m interested in Python and Cloud Engineer. 
 - 🌱 I’m currently learning Python Programming and Cloud Development.
-- 💞️ I’m looking to collaborate on Microsoft Azure, Ubuntu Server and Data Science.
+- 💞️ I’m looking to collaborate on Amazon Web Service, Linux and SysOps.
 - 📫 How to reach me okolimichael2015@yahoo.com, www.twitter.com/MicTello
 
 <!---
